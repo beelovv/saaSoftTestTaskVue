@@ -1,6 +1,6 @@
 # Test Task For saaSoft 
 
-# Stack: 
+Stack: 
 Vue.js 3 + Composition API 
 TypeScript
 Pinia 
